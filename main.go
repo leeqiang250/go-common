@@ -1,5 +1,7 @@
 package main
 
+import "github.com/leeqiang250/go-common/common"
+
 func main() {
-	Test0()
+	common.Test0()
 }
