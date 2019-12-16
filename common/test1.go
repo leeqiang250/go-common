@@ -16,3 +16,7 @@ func Test1() {
 func Test2() {
 	fmt.Println(time.Now().Unix(), "Test2")
 }
+
+func Test3() {
+	fmt.Println(time.Now().Unix(), "Test3")
+}
