@@ -1,3 +1,3 @@
-module github.com/leeqiang250/go-common
+module go-common
 
 go 1.13
